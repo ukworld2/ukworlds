@@ -1,0 +1,11 @@
+img {
+  width: 100%;
+  height: auto;
+}
+
+.pre {
+  border-style: solid;
+  border-color: color|transparent|initial|inherit;
+  border-radius: 10px
+  width: 100%;
+}
